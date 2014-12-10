@@ -1,0 +1,29 @@
+.column1 {float: left;
+width: 500px;
+margin-left: 20px
+}
+
+.column2 {float: left;
+width: 500px;
+margin-left: 50px
+}
+p {text-align: left;
+color: grey;
+}
+
+#socialbar {position: fixed;
+margin-left: 400px;
+margin-top: 100px;
+}
+a:link {font-size: 10%;
+}
+
+.columnA, .columnB, .columnC {float:left;
+width: 400px;
+padding: 10px;
+}
+
+.imagegallery {float:left;
+margin-right: 50px;
+padding: 20px;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ;
+}
